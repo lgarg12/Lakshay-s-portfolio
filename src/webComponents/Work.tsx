@@ -4,6 +4,7 @@ import HealthHub from '../assets/Screenshot 2024-05-29 195046.png'
 const Work = () => {
   return (
     <div className="mt-10">
+      <div className="text-2xl font-semibold mb-4">Work</div>
       <Cart
         title="HealthUB Project"
         image={HealthHub}
